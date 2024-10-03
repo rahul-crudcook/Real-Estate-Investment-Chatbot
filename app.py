@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 from openai_client import handle_user_query, load_and_preprocess_data
 
+
 # Заголовок вашего приложения
 st.title('Real Estate Investment Chatbot')
 
